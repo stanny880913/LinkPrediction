@@ -1,8 +1,0 @@
-numpy
-wheel
-pandas
-networkx
-scipy
-matplotlib  
-sklearn
-xgboost
